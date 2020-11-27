@@ -1,0 +1,32 @@
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDal\bin\Debug\Neo4jDal.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDal\bin\Debug\Neo4jDal.pdb
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDal\bin\Debug\Neo4j.Driver.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDal\bin\Debug\Neo4jClient.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDal\bin\Debug\Neo4jDTO.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDal\bin\Debug\Neo4jDTO.pdb
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDal\bin\Debug\Neo4j.Driver.xml
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDal\bin\Debug\Neo4jClient.pdb
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDal\bin\Debug\Neo4jClient.xml
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDal\obj\Debug\Neo4jDal.csprojAssemblyReference.cache
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDal\obj\Debug\Neo4jDal.csproj.CoreCompileInputs.cache
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDal\obj\Debug\Neo4jDal.csproj.CopyComplete
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDal\obj\Debug\Neo4jDal.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDal\obj\Debug\Neo4jDal.pdb
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDal\bin\Debug\Neo4jDal.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDal\bin\Debug\Neo4jDal.pdb
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDal\bin\Debug\Neo4j.Driver.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDal\bin\Debug\Neo4jClient.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDal\bin\Debug\Neo4jDTO.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDal\bin\Debug\Neo4jDTO.pdb
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDal\bin\Debug\Neo4j.Driver.xml
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDal\bin\Debug\Neo4jClient.pdb
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDal\bin\Debug\Neo4jClient.xml
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDal\obj\Debug\Neo4jDal.csprojAssemblyReference.cache
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDal\obj\Debug\Neo4jDal.csproj.CoreCompileInputs.cache
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDal\obj\Debug\Neo4jDal.csproj.CopyComplete
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDal\obj\Debug\Neo4jDal.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDal\obj\Debug\Neo4jDal.pdb

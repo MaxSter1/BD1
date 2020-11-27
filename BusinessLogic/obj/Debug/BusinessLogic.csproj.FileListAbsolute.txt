@@ -1,0 +1,76 @@
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\mongocrypt.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\snappy32.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\snappy64.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\libzstd.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\MongoDal.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\MongoDTO.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\MongoDB.Driver.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\MongoDB.Bson.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\DnsClient.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\SharpCompress.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\System.Buffers.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\MongoDal.pdb
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\MongoDTO.pdb
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\MongoDB.Driver.xml
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\MongoDB.Bson.xml
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\DnsClient.xml
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\System.Buffers.xml
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\Neo4jDal.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\Neo4jDTO.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\Neo4jClient.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\Neo4j.Driver.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\Neo4jDal.pdb
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\Neo4jDTO.pdb
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\Neo4jClient.pdb
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\Neo4jClient.xml
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Programmer\source\repos\SocialConsoleApp\BusinessLogic\bin\Debug\Neo4j.Driver.xml
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\mongocrypt.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\snappy32.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\snappy64.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\libzstd.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\MongoDal.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\MongoDTO.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\Neo4jDal.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\Neo4jDTO.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\MongoDB.Driver.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\MongoDB.Bson.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\Neo4jClient.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\DnsClient.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\SharpCompress.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\System.Buffers.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\Neo4j.Driver.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\MongoDal.pdb
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\MongoDTO.pdb
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\Neo4jDal.pdb
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\Neo4jDTO.pdb
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\MongoDB.Driver.xml
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\MongoDB.Bson.xml
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\Neo4jClient.pdb
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\Neo4jClient.xml
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\DnsClient.xml
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\System.Buffers.xml
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\bin\Debug\Neo4j.Driver.xml
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\BusinessLogic\obj\Debug\BusinessLogic.pdb

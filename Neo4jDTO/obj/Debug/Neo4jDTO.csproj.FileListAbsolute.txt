@@ -1,0 +1,18 @@
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDTO\bin\Debug\Neo4jDTO.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDTO\bin\Debug\Neo4jDTO.pdb
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDTO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDTO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDTO\obj\Debug\Neo4jDTO.csprojAssemblyReference.cache
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDTO\obj\Debug\Neo4jDTO.csproj.CoreCompileInputs.cache
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDTO\obj\Debug\Neo4jDTO.csproj.CopyComplete
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDTO\obj\Debug\Neo4jDTO.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\Neo4jDTO\obj\Debug\Neo4jDTO.pdb
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDTO\bin\Debug\Neo4jDTO.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDTO\bin\Debug\Neo4jDTO.pdb
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDTO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDTO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDTO\obj\Debug\Neo4jDTO.csprojAssemblyReference.cache
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDTO\obj\Debug\Neo4jDTO.csproj.CoreCompileInputs.cache
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDTO\obj\Debug\Neo4jDTO.csproj.CopyComplete
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDTO\obj\Debug\Neo4jDTO.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\Neo4jDTO\obj\Debug\Neo4jDTO.pdb

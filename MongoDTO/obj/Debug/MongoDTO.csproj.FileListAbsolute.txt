@@ -1,0 +1,18 @@
+C:\Users\Programmer\source\repos\SocialConsoleApp\MongoDTO\bin\Debug\MongoDTO.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\MongoDTO\bin\Debug\MongoDTO.pdb
+C:\Users\Programmer\source\repos\SocialConsoleApp\MongoDTO\bin\Debug\MongoDB.Bson.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\MongoDTO\bin\Debug\MongoDB.Bson.xml
+C:\Users\Programmer\source\repos\SocialConsoleApp\MongoDTO\obj\Debug\MongoDTO.csprojAssemblyReference.cache
+C:\Users\Programmer\source\repos\SocialConsoleApp\MongoDTO\obj\Debug\MongoDTO.csproj.CoreCompileInputs.cache
+C:\Users\Programmer\source\repos\SocialConsoleApp\MongoDTO\obj\Debug\MongoDTO.csproj.CopyComplete
+C:\Users\Programmer\source\repos\SocialConsoleApp\MongoDTO\obj\Debug\MongoDTO.dll
+C:\Users\Programmer\source\repos\SocialConsoleApp\MongoDTO\obj\Debug\MongoDTO.pdb
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\MongoDTO\bin\Debug\MongoDTO.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\MongoDTO\bin\Debug\MongoDTO.pdb
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\MongoDTO\bin\Debug\MongoDB.Bson.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\MongoDTO\bin\Debug\MongoDB.Bson.xml
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\MongoDTO\obj\Debug\MongoDTO.csprojAssemblyReference.cache
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\MongoDTO\obj\Debug\MongoDTO.csproj.CoreCompileInputs.cache
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\MongoDTO\obj\Debug\MongoDTO.csproj.CopyComplete
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\MongoDTO\obj\Debug\MongoDTO.dll
+C:\Users\masik\OneDrive\Рабочий стол\SocialNetworkProgramm\MongoDTO\obj\Debug\MongoDTO.pdb
